@@ -13,7 +13,6 @@ public class FizzBuzz {
       return String.valueOf(i);
     }
 
-	
   }
   
 
@@ -26,13 +25,4 @@ public class FizzBuzz {
   }
 
 }
-
-// var fizzBuzz = new FizzBuzz();
-// for (var i = 1; i <= 100; i++) {
-//   console.log(fizzBuzz.play(i));
-// }
-
-// for (int i = 0; i < 5; i++) {
-//   System.out.println(i);
-// }
 
